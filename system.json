@@ -8,5 +8,11 @@
         "name": "Vera",
         "discord": "veraa_m"
     }
+    ],
+    "esmodules": [
+        "arcane-arcade-fallout.mjs"
+    ],
+    "styles": [
+        "arcane-arcade-fallout.css"
     ]
 }

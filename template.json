@@ -1,0 +1,17 @@
+{
+    "Actor":{},
+    "Item":{
+        "types":[
+            "weapon"
+        ],
+        "weapon":{
+            "type": "bladed",
+            "base-cost":0,
+            "ap":0,
+            "damage":0,
+            "short-range":0,
+            "long-range":0,
+            "crit-chance":20
+        }
+    }
+}
